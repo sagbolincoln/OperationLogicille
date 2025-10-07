@@ -1,0 +1,6 @@
+** Premier commit : michaelisvy <misvy@vmware.com>
+** dervier commit : Patrick Baumgartner <contact@patbaumgartner.com>
+** il ya 9 branches dans ce projet
+** le nbre de contributeurs -arey -snicoll -patbaumgartner
+** 1 seul tag
+** oui
