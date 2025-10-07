@@ -6,7 +6,7 @@ app = FastAPI()
 # Route de test
 @app.get("/")
 def read_root():
-    return {"message": "Hello FastAPI 🚀"}
+    return {"message": "Hello FastAPI "}
 
 # Route avec paramètre
 @app.get("/items/{item_id}")
